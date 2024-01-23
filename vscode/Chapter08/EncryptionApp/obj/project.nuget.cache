@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUUfX6W04ZLz81BNP2K5GKRAXbumqGo3BUs8NZ1RAK3lE8bQcL6urCMIjdwVo0bIIOlZHpor8Z6tzkx2bYQCpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isiah\\Repos\\apps-services-net7\\vscode\\Chapter08\\EncryptionApp\\EncryptionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

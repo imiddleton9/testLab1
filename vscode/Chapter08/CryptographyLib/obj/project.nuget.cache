@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlD1b9uRM/1g/P0zMPsCVGLn8vH0fcSESz3F0ANFM6IR4DdjHA088fw3M5tuOiaBWnTclJHnHUe2qkbkv0b3DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isiah\\Repos\\apps-services-net7\\vscode\\Chapter08\\CryptographyLib\\CryptographyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\isiah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
